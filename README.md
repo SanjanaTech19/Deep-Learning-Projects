@@ -1,39 +1,33 @@
-# Deep Learning Projects
+# Deep Learning Projects 🧠
 
-A collection of practical deep learning projects for exploring machine learning workflows, neural networks, computer vision, and model evaluation.
+A collection of practical deep learning projects for exploring machine learning workflows, neural networks, computer vision, and model evaluation. 🚀
 
 The projects in this repository are designed to build understanding through complete, hands-on examples: preparing data, training models, evaluating results, and using models to make predictions.
 
-## Projects
+## What This Collection Will Explore 🔬
 
-### Breast Cancer Classification
+This folder will grow into a set of focused experiments and applications, including:
 
-A neural network that classifies breast tumors as benign or malignant using the Wisconsin Diagnostic Breast Cancer dataset from scikit-learn.
+- **Tabular classification**: Predict categories from structured datasets.
+- **Computer vision**: Recognize and classify patterns in images.
+- **Natural language processing**: Work with text classification and language data.
+- **Time-series forecasting**: Learn patterns in sequential and historical data.
+- **Model evaluation**: Compare metrics, visualize results, and understand model behavior.
+- **Deployment experiments**: Turn trained models into simple, usable demos.
 
-The project demonstrates:
-
-- Dataset loading and exploratory data analysis
-- Feature and target separation
-- Training and test data splitting
-- Feature standardization
-- Neural network construction with TensorFlow and Keras
-- Training and validation metric visualization
-- Test-set evaluation
-- Sample prediction
-
-See the project-specific documentation in [Breast-Cancer-Classification](Breast-Cancer-Classification/README.md).
+Each project will include its own notebook, dependencies, documentation, and reproducible workflow. 📚
 
 ## Technology Stack
 
 ### Currently Used
 
-- **Python** for development and experimentation
-- **Jupyter Notebook** for interactive analysis and documentation
+- **Python** for development and experimentation 🐍
+- **Jupyter Notebook** for interactive analysis and documentation 📓
 - **NumPy** for numerical operations
 - **pandas** for data loading and manipulation
 - **Matplotlib** for visualizing data and training results
 - **scikit-learn** for datasets, preprocessing, and data splitting
-- **TensorFlow and Keras** for building and training neural networks
+- **TensorFlow and Keras** for building and training neural networks ⚙️
 
 ### Planned Tools
 
