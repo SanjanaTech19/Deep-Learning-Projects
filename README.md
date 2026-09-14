@@ -47,6 +47,12 @@ The technology used by each project is documented in its own folder.
 ```text
 Deep-Learning-Projects/
 |-- Breast-Cancer-Classification/
+|   |-- data.csv
+|   |-- main.ipynb
+|   |-- requirements.txt
+|   |-- README.md
+|   `-- .gitignore
+|-- MNIST-Digit-Classification/
 |   |-- main.ipynb
 |   |-- requirements.txt
 |   |-- README.md
