@@ -17,7 +17,7 @@ This folder will grow into a set of focused experiments and applications, includ
 
 Each project will include its own notebook, dependencies, documentation, and reproducible workflow. 📚
 
-## Technology Stack
+## Technology Stack 🛠️
 
 ### Currently Used
 
@@ -29,7 +29,7 @@ Each project will include its own notebook, dependencies, documentation, and rep
 - **scikit-learn** for datasets, preprocessing, and data splitting
 - **TensorFlow and Keras** for building and training neural networks ⚙️
 
-### Planned Tools
+### Planned Tools 🔮
 
 As the collection grows, projects may also use:
 
@@ -42,7 +42,7 @@ As the collection grows, projects may also use:
 
 The technology used by each project is documented in its own folder.
 
-## Repository Structure
+## Repository Structure 🗂️
 
 ```text
 Deep-Learning-Projects/
@@ -62,7 +62,7 @@ Deep-Learning-Projects/
 
 Datasets and other local files may be excluded from version control according to each project's `.gitignore` file.
 
-## Getting Started
+## Getting Started 🚀
 
 1. Clone or download this repository.
 2. Open the project folder you want to explore.
@@ -78,7 +78,7 @@ pip install -r requirements.txt
 jupyter notebook
 ```
 
-## Learning Goals
+## Learning Goals 🎯
 
 This project collection will focus on:
 
@@ -89,6 +89,6 @@ This project collection will focus on:
 - Practicing responsible use of machine learning predictions
 - Gradually moving from experiments to reusable applications
 
-## Disclaimer
+## Disclaimer ⚠️
 
 These projects are educational demonstrations. Model outputs should not be treated as professional medical, financial, or other high-stakes advice.
