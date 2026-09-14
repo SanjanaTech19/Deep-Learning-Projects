@@ -1,0 +1,32 @@
+# Python environments and caches
+.venv/
+venv/
+env/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+
+# Jupyter Notebook files
+.ipynb_checkpoints/
+
+# Training outputs and generated models
+*.log
+logs/
+checkpoints/
+models/
+*.h5
+*.keras
+*.pb
+*.ckpt
+*.onnx
+
+# Operating-system and editor files
+.DS_Store
+Thumbs.db
+.vscode/
+
+# Local environment files
+.env
+.env.*
+!.env.example

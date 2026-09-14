@@ -1,0 +1,8 @@
+numpy==1.26.4
+matplotlib
+seaborn
+opencv-python
+pillow
+tensorflow==2.16.2
+protobuf==4.25.3
+notebook
